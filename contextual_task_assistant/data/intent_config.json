@@ -1,0 +1,23 @@
+{
+  "set_reminder": [
+    "remind me to do something",
+    "set a reminder for tomorrow",
+    "I need to remember an event",
+    "add something to my calendar",
+    "don't let me forget this"
+  ],
+  "fetch_summary": [
+    "show me what I did last time",
+    "give me a summary of tasks",
+    "summarize my activity",
+    "what have I done recently",
+    "tell me my past activity"
+  ],
+  "search_web": [
+    "search for latest AI news",
+    "look up something online",
+    "find info on Google",
+    "google this topic",
+    "search web for something"
+  ]
+}

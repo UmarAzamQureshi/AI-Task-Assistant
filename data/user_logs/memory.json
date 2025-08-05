@@ -1,0 +1,144 @@
+{
+  "user1": [
+    {
+      "input": "hi",
+      "intent": "set_reminder",
+      "response": "Reminder has been set!"
+    },
+    {
+      "input": "can you tell me time in Pakistan, Islamabad and check all available flights from isb to khi for today and tomorrow",
+      "intent": "set_reminder",
+      "response": "Reminder has been set!"
+    },
+    {
+      "input": "set alarm for 2 am today",
+      "intent": "set_reminder",
+      "response": "Reminder has been set!"
+    },
+    {
+      "input": "set alarm for 2 am today",
+      "intent": "set_reminder",
+      "response": "Reminder has been set!"
+    },
+    {
+      "input": "check today flight status from karachi to isb",
+      "intent": "set_reminder",
+      "response": "Reminder has been set!"
+    },
+    {
+      "input": "check today flight status from karachi to isb",
+      "intent": "set_reminder",
+      "response": "Reminder has been set!"
+    },
+    {
+      "input": "Search latest AI news",
+      "intent": "set_reminder",
+      "response": "\u23f0 Reminder has been set!"
+    },
+    {
+      "input": "Search latest AI news",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "Search latest AI news",
+      "intent": "search_web",
+      "response": "\ud83c\udf10 Searching Google for: `Search latest AI news`"
+    },
+    {
+      "input": "check flights from KHI to ISB",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "check flight status ",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "Search latest AI news",
+      "intent": "search_web",
+      "response": "\ud83c\udf10 Searching Google for: `Search latest AI news`"
+    },
+    {
+      "input": "Search latest AI news",
+      "intent": "search_web",
+      "response": "\ud83c\udf10 Searching Google for: `Search latest AI news`"
+    },
+    {
+      "input": "summarize my activity",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "search for latest AI news",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "search for latest AI news",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "search for latest AI news",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "search flight from isb to KHI",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "Search latest Ai news",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "tell me my past activity",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "remind me to do something",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "remind me to do something",
+      "intent": "unknown",
+      "response": "\ud83e\udd16 I'm not sure how to help with that yet."
+    },
+    {
+      "input": "remind me to do something",
+      "intent": "set_reminder",
+      "response": "\u23f0 Reminder has been set!"
+    },
+    {
+      "input": "remind me to do something",
+      "intent": "set_reminder",
+      "response": "\u23f0 Reminder has been set!"
+    },
+    {
+      "input": "remind me to do something",
+      "intent": "set_reminder",
+      "response": "\u23f0 Reminder has been set!"
+    },
+    {
+      "input": "find info on Google",
+      "intent": "search_web",
+      "response": "\ud83c\udf10 Searching Google for: `find info on Google`"
+    },
+    {
+      "input": "show me what I did last time",
+      "intent": "fetch_summary",
+      "response": "\ud83d\udcc4 Here's a summary of your recent tasks..."
+    },
+    {
+      "input": "add something to my calendar",
+      "intent": "set_reminder",
+      "response": "\u23f0 Reminder has been set!"
+    }
+  ]
+}

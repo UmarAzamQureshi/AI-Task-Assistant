@@ -1,0 +1,64 @@
+{
+  "user1": [
+    {
+      "input": "check todays weather",
+      "intent": "unknown",
+      "response": "OpenAI error: \n\nYou tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.\n\nYou can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. \n\nAlternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`\n\nA detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742\n"
+    },
+    {
+      "input": "show me the flights from karachi to isb for today",
+      "intent": "unknown",
+      "response": "OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    },
+    {
+      "input": "weather in islamabad",
+      "intent": "unknown",
+      "response": "OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    },
+    {
+      "input": "show me the weather in Islamabad",
+      "intent": "unknown",
+      "response": "OpenAI error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: ssk-proj*********************************************************************************************************************************************************BrwA. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+    },
+    {
+      "input": "show me the weather in Islamabad",
+      "intent": "unknown",
+      "response": "OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    },
+    {
+      "input": "show me the weather in Islamabad",
+      "intent": "unknown",
+      "response": "OpenAI error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}"
+    },
+    {
+      "input": "set alarm for 5pm ",
+      "intent": "set_reminder",
+      "response": "\u23f0 Reminder has been set!"
+    },
+    {
+      "input": "show me weather in Islamabad",
+      "intent": "unknown",
+      "response": "<url>\nThe Weather Service's response is to show you weather information in Islamabad. Below is the link to the Weather Service's website: http://www.weather.gov.pk.\nNote: This weather service is not affiliated with the Pakistan Meteorological Department or Islamabad's Government.\nIn response to a request of the Pakistan Meteorological Department's weather service, the weather service has responded: http://www.weather.gov.pk.\nWe are grateful to all who"
+    },
+    {
+      "input": "check PIA flights from Islamabad to Karachi",
+      "intent": "unknown",
+      "response": "yes\nResponse from pai: yes\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no\nResponse from pai: no"
+    },
+    {
+      "input": "set a Calander  reminder  at 3pm for gym",
+      "intent": "set_reminder",
+      "response": "\u23f0 Reminder has been set!"
+    },
+    {
+      "input": "show me my reminders",
+      "intent": "set_reminder",
+      "response": "\u23f0 Reminder has been set!"
+    },
+    {
+      "input": "show me previous asked questions",
+      "intent": "fetch_summary",
+      "response": "\ud83d\udcc4 Here's a summary of your recent tasks..."
+    }
+  ]
+}
